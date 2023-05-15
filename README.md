@@ -1,36 +1,120 @@
+<p align="center">
+ <a href="https://github.com/GihanSanjeewa">
+  <img src="https://github.githubassets.com/images/modules/site/home-campaign/astrocat.png?width=400&format=webpll"/>
+ </a>
+</p>
 
-<h1 align="center">Hi 👋, I'm Gihan Sanjeewa</h1>
-<h3 align="center">A passionate Developer From Sri Lanka</h3>
-<img align="right" alt="coding" width = "400" src ="https://miro.medium.com/v2/resize:fit:1600/0*C-cPP9D2MIyeexAT.gif">
+<p align="center" width="100%">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg" width="100%"><img src="https://readme-typing-svg.herokuapp.com/?lines=Hello%20World!;I'm%20Gihan%20Sanjeewa;Full%20Stack%20Developer;Tech%20Speaker;Community%20Lead;Open-Source%20Enthusiast;Writer%20@Medium;Student%20@vueschool;NIBM%20Undergraduate%20👨‍🎓&font=Fira%20Code&center=true&width=440&height=45&color=ff4130&vCenter=true&size=28" width="100%"></a>
+</p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=gihansanjeewa&label=Profile%20views&color=0e75b6&style=flat" alt="gihansanjeewa" /> </p>
+<h3 align="center">I'm a passionate Full Stack Developer from Sri Lanka. I learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.</h3>
 
-<p align="left"> <a href="https://twitter.com/gihansanjeewa" target="blank"><img src="https://img.shields.io/twitter/follow/gihansanjeewa?logo=twitter&style=for-the-badge" alt="gihansanjeewa" /></a> </p>
+<br/>
+<br/>
 
-- 🔭 I’m currently working on **E Commerce Web site**
+<!-- Social icons section -->
+<p align="center">
+<a href="https://www.linkedin.com/in/gihan-sanjeewa-061652276/" target="_blank">
+  <img align="center" alt="Gihan Sanjeewa | Linkedin" width="24px" src="https://img.icons8.com/fluent/48/000000/linkedin.png" />
+</a> &nbsp;&nbsp;
+<a href="https://stackoverflow.com/users/21893184/gihan-sanjeewa" target="_blank">
+  <img align="center" alt="Gihan Sanjeewa | Stackoverflow" width="24px" src="https://img.icons8.com/color/2x/stackoverflow.png" />
+</a> &nbsp;&nbsp;
 
-- 🌱 I’m currently learning **React Native**
+<a href="https://www.instagram.com/g_i_h_a_n_sanjeewa/" target="_blank">
+  <img align="center" alt="Gihan Sanjeewa | Instagram" width="24px" src="https://img.icons8.com/fluent/48/000000/instagram-new.png" />
+</a> &nbsp;&nbsp;
+<p>
+  
+<br/>
 
-- 👯 I’m looking to collaborate on **Big Project**
+<!-- Badges with custom icons section -->
+<p align="center" width="100%">
 
-- 💬 Ask me about **PHP , CSS , HTML , JAVA , C#**
+<a href="https://github.com/GihanSanjeewa?tab=followers" target="_blank">
+  <img align="center" alt="Gihan Sanjeewa | Profile Views" width="120px" src="https://komarev.com/ghpvc/?username=MadhushaPrasad&style=plastic" />
+</a> &nbsp;&nbsp;
+<a href="https://github.com/GihanSanjeewa?tab=followers" target="_blank">
+  <img align="center" alt="Gihan Sanjeewa | followers" width="93px" src="https://img.shields.io/github/followers/GihanSanjeewa?label=Followers&style=social" /> </a> &nbsp;&nbsp;
+
+</p>
+
+<br/>
+
+## 🙋‍♂️ About Me
+
+- 🌱 I’m currently learning **BSc (Hons) in Software Engineering Degree**
+
+- 👯 I’m looking to collaborate on **OpenSource Projects**
 
 - 📫 How to reach me **gihansanjeewa.m@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/gihansanjeewa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="gihansanjeewa" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/gihan sanjeewa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gihan sanjeewa" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/gihan sanjeewa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="gihan sanjeewa" height="30" width="40" /></a>
-<a href="https://fb.com/gihan sanjeewa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="gihan sanjeewa" height="30" width="40" /></a>
-<a href="https://instagram.com/g_i_h_a_n_sanjeewa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="g_i_h_a_n_sanjeewa" height="30" width="40" /></a>
+- ⚡ Fun fact **I play video games and watch movies**
+  <br/>
+
+<p align="center">
+
+```
+For Academic Purposes
+
+Student IT : KUHDSE22.1f-024
+Student Name : M.P.D.Gihan Sanjeewa
+```
+
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> </a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gihansanjeewa&show_icons=true&locale=en&layout=compact" alt="gihansanjeewa" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gihansanjeewa&show_icons=true&locale=en" alt="gihansanjeewa" /></p>
+<p align="center">
+  <p align="center">
+    <a href="https://github.com/GihanSanjeewa/github-readme-streak-stats">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Gihan Sanjeewa's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=GihanSanjeewad&theme=black-ice&hide_border=true&stroke=0000&background=000000"/>
+    </a>
+  </p>
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gihansanjeewa&" alt="gihansanjeewa" /></p>
+## 📊 My Github Status
+
+<a href="https://github.com/GihanSanjeewa/github-readme-stats"><img alt="Gihan Sanjeewa's Github Stats" src="https://github-readme-stats.vercel.app/api?username=GihanSanjeewa&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=000000" /></a>
+  <a href="https://github.com/GihanSanjeewa/github-readme-stats"><img alt="GihanSanjeewa's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GihanSanjeewa&langs_count=20&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=000000" /></a>
+
+  <br/>
+
+  <center>
+  <b>Note:</b> I really enjoy learning languages and
+frameworks like React and React Native, as well as learning Software Engineering Degree. And also enjoy 
+ui, ux, and design in general.
+</center>
+
+<br/>
+
+**languages and tools:**
+
+<code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" src="https://www.vectorlogo.zone/logos/jquery/jquery-ar21.svg"></code>
+<code><img height = "20" src = "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code>
+<code><img height = "20" src = "https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<code><img height="20" src="https://www.vectorlogo.zone/logos/angular/angular-icon.svg"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"></code>
+<code><img height="20" src="https://upload.wikimedia.org/wikipedia/de/8/8c/Microsoft_SQL_Server_Logo.svg"></code>
+<code><img height="20" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"></code>
+
+
+<br/>
+
+
+
+
+
+## Snake eating my contributions graph
+
+![snake gif](https://github.com/GihanSanjeewa/GihanSanjeewa/blob/output/github-contribution-grid-snake.gif)
