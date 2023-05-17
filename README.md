@@ -5,7 +5,7 @@
 </p>
 
 <p align="center" width="100%">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg" width="100%"><img src="https://readme-typing-svg.herokuapp.com/?lines=Hello%20World!;I'm%20Gihan%20Sanjeewa;Full%20Stack%20Developer;Tech%20Speaker;Community%20Lead;Open-Source%20Enthusiast;Writer%20@Medium;NIBM%20Undergraduate%20👨‍🎓&font=Fira%20Code&center=true&width=440&height=45&color=ff4130&vCenter=true&size=28" width="100%"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg" width="100%"><img src="https://readme-typing-svg.herokuapp.com/?lines=Hello%20World!;I'm%20Gihan%20Sanjeewa;Full%20Stack%20Developer;Community%20Lead;Open-Source%20Enthusiast;Writer%20;NIBM%20Undergraduate%20👨‍🎓&font=Fira%20Code&center=true&width=440&height=45&color=ff4130&vCenter=true&size=28" width="100%"></a>
 </p>
 
 <h3 align="center">I'm a passionate Full Stack Developer from Sri Lanka. I learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.</h3>
