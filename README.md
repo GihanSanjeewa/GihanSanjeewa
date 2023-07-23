@@ -64,14 +64,13 @@ Student Name : M.P.D.Gihan Sanjeewa
 
 </p>
 
-
-
 <p align="center">
   <p align="center">
     <a href="https://github.com/GihanSanjeewa/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Gihan Sanjeewa's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=GihanSanjeewad&theme=black-ice&hide_border=true&stroke=0000&background=000000"/>
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="GihanSanjeewa's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=GihanSanjeewa&theme=black-ice&hide_border=true&stroke=0000&background=000000"/>
     </a>
   </p>
+</p>
 </p>
 
 ## 📊 My Github Status
