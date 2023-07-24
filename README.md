@@ -73,6 +73,8 @@ Student Name : M.P.D.Gihan Sanjeewa
 </p>
 </p>
 
+![trophy](https://github-profile-trophy.vercel.app/?username=udaraekanayake96&theme=onedark)
+
 ## 📊 My Github Status
 
 <a href="https://GihanSanjeewa.xyz?ref=github">
