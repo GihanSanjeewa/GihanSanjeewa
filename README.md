@@ -98,9 +98,9 @@ frameworks like React and React Native, as well as learning Software Engineering
 ui, ux, and design in general.
 </center>
 
-<br/>
+<br/><br/>
 
-**languages and tools:**
+**languages and tools:**</hr>
 
 <code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"></code>
