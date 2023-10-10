@@ -44,7 +44,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🌱 I’m currently learning **BSc (Hons) in Software Engineering Degree**
+- 🌱 I’m currently learning **BSc (Hons) in Software Engineering **
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
