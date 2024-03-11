@@ -54,17 +54,6 @@
   <br/>
 - Developer Profile - <a href="https://developers.google.com/profile/u/108006188011922976562">Clike Me</a>
 <p align="center">
-
-```
-For Academic Purposes
-
-Student IT : KUHDSE22.1f-024
-Student Name : M.P.D.Gihan Sanjeewa
-```
-
-</p>
-
-<p align="center">
   <p align="center">
     <a href="https://github.com/GihanSanjeewa/github-readme-streak-stats">
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="GihanSanjeewa's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=GihanSanjeewa&theme=black-ice&hide_border=true&stroke=0000&background=000000"/>
